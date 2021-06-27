@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body{
+	background: url("images/fosssil.jpeg") no-repeat;
+    background-size: cover;
+	
+}	
+
+h1 {
+
+	font-family: blackcurrant-squash, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+
+
+}
+
+
+
+#wrapper{
+	width:900px;
+	margin:0 auto;
+}
+
+
+nav{
+	width: 100%;
+	text-align: center;
+	
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 5;
+  padding: 5;
+	
+}
+
+nav li{
+	display:inline;
+	
+}
+
+
+footer{
+	text-align: center;
+	clear:both;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+
+}
+
+nav a:link {
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  color:rgba(104,104,104,.75);
+  text-decoration: none;
+  margin-right: 20px;
+	
+}
+
+nav a:visited {
+  
+}
+
+nav a:hover {
+  color:cadetblue;
+}
+
+nav a:active {
+  text-decoration: bold;
+}
+
+.left{
+	width: 400px;
+	float:left;
+	margin-top:30px;
+	margin-bottom: 30px;
+	
+}
+
+.right{
+	width: 400px; 
+	float:left;
+	margin-left: 30px;
+	margin-top:30px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+}
+
