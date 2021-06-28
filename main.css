@@ -34,8 +34,8 @@ nav{
 
 nav ul{
   list-style-type: none;
-  margin: 5;
-  padding: 5;
+  margin: 2;
+  padding: 3;
 	
 }
 
@@ -48,17 +48,20 @@ nav li{
 footer{
 	text-align: center;
 	clear:both;
-	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-family: blackcurrant-squash, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	
 
 }
 
 nav a:link {
-  font-family: bubblegum-pop-shadow, sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  color:rgba(115,90,1,1.00);
-  text-decoration:none;
-  margin-right: 20px;
+	font-family: ccmonstermash, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+    color: black;
+	font-size: 15px;
+    margin-right: 20px;
 	
 }
 
