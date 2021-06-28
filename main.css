@@ -53,9 +53,11 @@ footer{
 }
 
 nav a:link {
-font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-  color:rgba(104,104,104,.75);
-  text-decoration: none;
+  font-family: bubblegum-pop-shadow, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:rgba(115,90,1,1.00);
+  text-decoration:none;
   margin-right: 20px;
 	
 }
@@ -65,7 +67,7 @@ nav a:visited {
 }
 
 nav a:hover {
-  color:cadetblue;
+  color:chocolate;
 }
 
 nav a:active {
