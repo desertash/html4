@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background: url("images/paperbackground.jpeg") no-repeat;
+    background-size: cover;
+	
+}	
+
+h1 {
+
+	font-family: blackcurrant-squash, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+
+
+}
+
+
+#wrapper{
+	width:100%;
+	margin:0 auto;
+}
+
+
+.left{
+	width: 400px;
+	height: 350px;
+	float:left;
+	margin-top:20px;
+	margin-bottom: 30px;
+	margin-left: 80px;
+	
+}
+
+.right{
+	width: 400px; 
+	float:left;
+	margin-left: 70px;
+	margin-top:5px;
+	font-family: custard, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 25px;
+	border-radius: 20px;
+	padding:10px;
+	height: 270px;
+	background-color:white
+}
